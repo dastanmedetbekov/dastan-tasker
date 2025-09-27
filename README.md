@@ -1,3 +1,3 @@
 # dastan-tasker
 
-Just for learning
+App for tasks. Not ready to use.
